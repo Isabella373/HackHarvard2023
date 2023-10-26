@@ -8,6 +8,8 @@ Users can scan everyday objects with the scanner in QuickSort and will immediate
 The Maps feature will lead the users to the nearest garbage recycling places on Google Maps
 
 <img width="298" alt="Screenshot 2023-10-25 at 20 04 55" src="https://github.com/Isabella373/HackHarvard2023/assets/99710738/3daeb5a9-3b22-4019-9087-24aceed6035a">
+<img width="301" alt="Screenshot 2023-10-25 at 20 15 28" src="https://github.com/Isabella373/HackHarvard2023/assets/99710738/290eade0-dd81-497c-bccb-8a397c0465a7">
+
 
 With the support of Google Cloud, QuickSort will record the total amount of garbage recycled by the users in the past year/month/week and display the data on line charts and pie charts.
 
